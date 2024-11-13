@@ -1,0 +1,9 @@
+com.demo.advanced.daggerhilt.test.app-staging-0 D:\BinalProjects\OtherProjects\APICallWithFlow\ApiCallWithFlow\app\build\generated\res\resValues\androidTest\staging\debug
+com.demo.advanced.daggerhilt.test.app-staging-1 D:\BinalProjects\OtherProjects\APICallWithFlow\ApiCallWithFlow\app\build\generated\res\rs\androidTest\staging\debug
+com.demo.advanced.daggerhilt.test.app-mergeStagingDebugAndroidTestResources-2 D:\BinalProjects\OtherProjects\APICallWithFlow\ApiCallWithFlow\app\build\intermediates\incremental\stagingDebugAndroidTest\mergeStagingDebugAndroidTestResources\merged.dir
+com.demo.advanced.daggerhilt.test.app-mergeStagingDebugAndroidTestResources-3 D:\BinalProjects\OtherProjects\APICallWithFlow\ApiCallWithFlow\app\build\intermediates\incremental\stagingDebugAndroidTest\mergeStagingDebugAndroidTestResources\stripped.dir
+com.demo.advanced.daggerhilt.test.app-merged_res-4 D:\BinalProjects\OtherProjects\APICallWithFlow\ApiCallWithFlow\app\build\intermediates\merged_res\stagingDebugAndroidTest
+com.demo.advanced.daggerhilt.test.app-androidTest-5 D:\BinalProjects\OtherProjects\APICallWithFlow\ApiCallWithFlow\app\src\androidTest\res
+com.demo.advanced.daggerhilt.test.app-androidTestDebug-6 D:\BinalProjects\OtherProjects\APICallWithFlow\ApiCallWithFlow\app\src\androidTestDebug\res
+com.demo.advanced.daggerhilt.test.app-androidTestStaging-7 D:\BinalProjects\OtherProjects\APICallWithFlow\ApiCallWithFlow\app\src\androidTestStaging\res
+com.demo.advanced.daggerhilt.test.app-androidTestStagingDebug-8 D:\BinalProjects\OtherProjects\APICallWithFlow\ApiCallWithFlow\app\src\androidTestStagingDebug\res
